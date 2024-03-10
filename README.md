@@ -2,6 +2,13 @@
 
 Fact Generator is a web application that allows you to discover interesting facts. Users can view random facts, see the fact of the day, and save their favorite facts for later viewing. The application also supports English and German languages.
 
+Try [demo](https://fact-generator-nine.vercel.app/).
+
+## Screenshots
+![Screenshot](/public/SS1.png)
+![Screenshot](/public/SS2.png)
+![Screenshot](/public/SS3.png)
+
 ## Features
 
 - **Random Fact:** Users can view a random fact by clicking the "Learn Facts" button on the home page.
